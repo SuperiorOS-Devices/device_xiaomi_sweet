@@ -56,4 +56,8 @@
     <!-- Comma-separated list of packages to exclude from camera protection. In our case,
     ignore the gaze detection and faceunlock package -->
     <string translatable="false" name="config_cameraProtectionExcludedPackages">org.pixelexperience.faceunlock,com.crdroid.faceunlock</string>
+
+    <!-- Should we vibrate on an icon animation of the shelf. This should only be active if the
+    vibrator is capable of subtle vibrations -->
+    <bool name="config_vibrateOnIconAnimation">true</bool>
 </resources>
