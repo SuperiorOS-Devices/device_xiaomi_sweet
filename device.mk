@@ -386,6 +386,10 @@ PRODUCT_PACKAGES += \
     init.recovery.qcom.rc \
     librecovery_updater_xiaomi
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-impl \
