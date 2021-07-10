@@ -663,6 +663,11 @@ vendor/app/TimeService/TimeService.apk
 vendor/etc/init/init.time_daemon.rc
 -vendor/lib64/libtime_genoff.so
 
+# Thermal
+vendor/bin/thermal-engine
+vendor/etc/thermal-engine.conf
+vendor/lib64/libthermalclient.so
+
 # WLAN
 -vendor/bin/cnss-daemon
 
