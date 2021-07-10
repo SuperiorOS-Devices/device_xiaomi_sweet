@@ -33,6 +33,9 @@ PRODUCT_PACKAGES += \
     AntHalService-Soong \
     com.dsi.ant@1.0.vendor
 
+# API level, the device has been commercially launched on
+PRODUCT_SHIPPING_API_LEVEL := 30
+
 # Audio
 PRODUCT_PACKAGES += \
     android.hardware.audio@7.1-impl \
