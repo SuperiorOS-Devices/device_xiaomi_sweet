@@ -170,6 +170,9 @@ PRODUCT_PACKAGES += \
     FM2 \
     qcom.fmradio
 
+PRODUCT_PACKAGES += \
+    libsdmcore-shim
+
 # Fstab
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/etc/fstab.default:$(TARGET_COPY_OUT_VENDOR)/etc/fstab.default \
