@@ -98,6 +98,7 @@ ro.audio.resampler.psd.enable_at_samplerate=44100
 ro.audio.resampler.psd.stopband=179
 ro.audio.resampler.psd.halflength=408
 ro.audio.resampler.psd.tbwcheat=99
+
 # Bluetooth
 bluetooth.device.class_of_device=90,2,12
 bluetooth.hardware.power.operating_voltage_mv=3300
@@ -138,6 +139,9 @@ ro.crypto.dm_default_key.options_format.version=2
 ro.crypto.volume.filenames_mode=aes-256-cts
 ro.crypto.volume.metadata.method=dm-default-key
 ro.crypto.volume.options=::v2
+
+# Dalvik
+dalvik.vm.systemuicompilerfilter=speed
 
 # Data modules
 persist.vendor.data.iwlan.enable=true
