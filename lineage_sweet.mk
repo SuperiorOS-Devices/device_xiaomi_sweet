@@ -24,3 +24,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Face Unlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
+
+# Blur
+TARGET_ENABLE_BLUR := true
