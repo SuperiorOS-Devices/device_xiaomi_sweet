@@ -30,3 +30,6 @@ TARGET_ENABLE_BLUR := true
 
 # Bootanimation
 TARGET_BOOT_ANIMATION_RES := 1080
+
+# Pixel Stuff
+TARGET_INCLUDE_PIXEL_CHARGER := true
