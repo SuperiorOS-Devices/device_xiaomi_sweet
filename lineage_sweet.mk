@@ -30,3 +30,6 @@ TARGET_ENABLE_BLUR := true
 
 # Pixel Stuff
 TARGET_INCLUDE_PIXEL_CHARGER := true
+
+# Quick Tap
+TARGET_SUPPORTS_QUICK_TAP := true
