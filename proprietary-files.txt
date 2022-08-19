@@ -931,8 +931,5 @@ vendor/etc/thermal-youtube.conf
 vendor/etc/thermald-devices.conf
 -vendor/lib64/libthermalclient.so
 
-# WLAN
--vendor/bin/cnss-daemon
-
 # Xiaomi MAC
 -vendor/bin/nv_mac
