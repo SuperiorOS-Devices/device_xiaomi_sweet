@@ -1,4 +1,6 @@
-# These proprietary files are extracted from Redmi Note 10 Pro (codenamed `sweet`) MIUI V14.0.7.0.TKFMIXM, unless pinned
+# These proprietary files are extracted from Redmi 
+# Note 10 Pro (codenamed `sweet`) MIUI 
+# V14.0.7.0.TKFMIXM, unless pinned
 
 # Audio ACDB - V12.5.2.0.RKFINXM-release-keys
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb|1607f4018f676dae74fc24efa5fbd1ccb9093812
@@ -344,9 +346,9 @@ vendor/lib64/camera/fdconfigpreviewlite.bin
 vendor/lib64/camera/fdconfigvideo.bin
 vendor/lib64/camera/fdconfigvideolite.bin
 
-# Camera-sensors - V13.0.4.0.SKFINXM-release-keys
-vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin|84d4d8875faf1dc44a68df5406b76969bd6d29b2
-vendor/lib64/camera/com.qti.tuned.sweet_sunny_s5kgw3_wide.bin|69755c55507ad9cde3c0a05a0c7f48be3d54b344
+# Camera-sensors - V13.0.9.0.SKFINXM-release-keys
+vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin|2fecdcf39059179fff3da1617e4eabdc45414fa1
+vendor/lib64/camera/com.qti.tuned.sweet_sunny_s5kgw3_wide.bin|fe2e514d7a36fb12518d49856521d0a4e0edca0f
 
 # Charger
 -vendor/bin/hvdcp_opti
