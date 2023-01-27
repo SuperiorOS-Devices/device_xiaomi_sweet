@@ -195,6 +195,9 @@ ro.qcom.adreno.qgl.ShaderStorageImageExtendedFormats=0
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
+# Fluence
+ro.vendor.audio.sdk.fluencetype=fluence
+
 # IMS
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
