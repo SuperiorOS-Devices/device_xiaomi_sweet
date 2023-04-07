@@ -724,4 +724,7 @@
 
     <!-- Whether we use large screen shade header which takes only one row compared to QS header -->
     <bool name="config_use_large_screen_shade_header">true</bool>
+
+    <!-- The default value for whether head tracking for spatial audio is enabled for a newly connected audio device -->
+    <bool name="config_spatial_audio_head_tracking_enabled_default">true</bool>
 </resources>
