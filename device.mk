@@ -36,11 +36,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libsdmcore-shim
 
-# Fstab
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/rootdir/etc/fstab.qcom:$(TARGET_COPY_OUT_RAMDISK)/fstab.qcom \
-    $(LOCAL_PATH)/rootdir/etc/fstab.qcom:$(TARGET_COPY_OUT_VENDOR)/etc/fstab.qcom
-
 # HIDL
 PRODUCT_PACKAGES += \
     android.hidl.base@1.0 \
