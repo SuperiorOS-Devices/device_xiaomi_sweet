@@ -587,6 +587,7 @@ vendor/etc/vintf/manifest/vendor.qti.gnss@4.0-service.xml
 -vendor/lib64/libloc_socket.so
 -vendor/lib64/liblocationservice.so
 -vendor/lib64/liblocationservice_glue.so
+-vendor/lib64/liblocdiagiface.so
 -vendor/lib64/liblowi_client.so
 -vendor/lib64/liblowi_wifihal.so
 -vendor/lib64/libqcc_file_agent.so
