@@ -30,9 +30,6 @@ ODM_MANIFEST_SWEET_FILES := \
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_sweet
 TARGET_RECOVERY_DEVICE_MODULES := libinit_sweet
 
-# Kernel
-TARGET_KERNEL_CONFIG := sweet_defconfig
-
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
