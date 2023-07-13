@@ -8,11 +8,6 @@
 include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/xiaomi/sweet
-BUILD_BROKEN_DUP_RULES := true
-BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
-BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
-BUILD_BROKEN_MISSING_REQUIRED_MODULES := true
-RELAX_USES_LIBRARY_CHECK := true
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := sweet,sweetin
