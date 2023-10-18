@@ -17,6 +17,20 @@ vendor/lib/libacdbrtac.so
 vendor/lib/libadiertac.so
 vendor/lib/libaudcal.so
 
+# Audio extensions
+vendor/lib/btaudio_offload_if.so
+vendor/lib/liba2dpoffload.so
+vendor/lib/libhdmiedid.so
+vendor/lib/libhfp.so
+vendor/lib/libsndmonitor.so
+vendor/lib/libspkrprot.so
+
+# Audio HAL
+vendor/lib/hw/audio.primary.sm6150.so
+vendor/lib/libaudio_log_utils.so
+vendor/lib/libaudioparsers.so
+vendor/lib/libaudioroute_ext.so
+
 # ADSP
 -vendor/bin/adsprpcd
 -vendor/bin/cdsprpcd
