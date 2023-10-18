@@ -339,10 +339,9 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
+    fastbootd \
+    init.recovery.qcom.rc \
     librecovery_updater_xiaomi
-
-PRODUCT_PACKAGES += \
-    init.recovery.qcom.rc
 
 # Sensors
 PRODUCT_PACKAGES += \
