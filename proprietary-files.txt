@@ -29,9 +29,11 @@ vendor/etc/acdbdata/adsp_avs_config.acdb
 
 # Audio HAL
 -vendor/lib/hw/audio.primary.sm6150.so
+-vendor/lib/libadm.so
 -vendor/lib/libaudio_log_utils.so
 -vendor/lib/libaudioparsers.so
 -vendor/lib/libaudioroute_ext.so
+-vendor/lib/libqtigef.so
 
 # ADSP
 -vendor/bin/adsprpcd
