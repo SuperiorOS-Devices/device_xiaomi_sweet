@@ -1,0 +1,34 @@
+# Bluetooth
+vendor.bluetooth.soc=cherokee
+
+# Charger
+ro.charger.enable_suspend=true
+
+# CNE
+persist.vendor.cne.feature=1
+
+# FUSE
+persist.sys.fuse.passthrough.enable=true
+
+# Media
+media.aac_51_output_enabled=true
+media.stagefright.enable-aac=true
+media.stagefright.enable-fma2dp=true
+media.stagefright.enable-http=true
+media.stagefright.enable-player=true
+media.stagefright.enable-qcp=true
+media.stagefright.enable-scan=true
+media.stagefright.thumbnail.prefer_hw_codecs=true
+mmp.enable.3g2=true
+persist.mm.enable.prefetch=true
+
+# Radio
+persist.vendor.radio.vdp_on_ims_cap=1
+persist.vendor.qti.telephony.vt_cam_interface=2
+ril.subscription.types=RUIM
+
+# Recovery
+ro.recovery.ui.margin_height=48
+
+# WiFi
+wifi.interface=wlan0
