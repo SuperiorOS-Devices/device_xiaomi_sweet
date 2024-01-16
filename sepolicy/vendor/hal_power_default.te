@@ -1,6 +1,3 @@
-type proc_sched_energy_aware, proc_type, fs_type;
-vendor_internal_prop(vendor_power_prop)
-
 allow hal_power_default touchfeature_device:chr_file rw_file_perms;
 
 # To do powerhint on nodes defined in powerhint.json

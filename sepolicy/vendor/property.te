@@ -1,1 +1,3 @@
 type nfc_sensors_prop, property_type;
+
+vendor_internal_prop(vendor_power_prop);
