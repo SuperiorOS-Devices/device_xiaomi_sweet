@@ -347,6 +347,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \
+    BluetoothResSweet \
     CarrierConfigOverlay \
     SweetinproSettingsProvider \
     SweetinproWifiOverlay \
