@@ -376,6 +376,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.power-service.xiaomi-libperfmgr
 
+# Power Stats
+PRODUCT_PACKAGES += \
+    android.hardware.power.stats
+
 # QTI
 PRODUCT_PACKAGES += \
     libqti_vndfwk_detect.vendor
