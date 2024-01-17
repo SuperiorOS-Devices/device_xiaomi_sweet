@@ -135,6 +135,9 @@ vendor/lib64/soundfx/libmisoundfx.so
 -vendor/lib/soundfx/libshoebox.so
 -vendor/lib/vndk/libxlog.so
 
+# Audio (FX modules) - from cheetah-user 14 UP1A.231005.007.A1 10762838 release-keys
+vendor/lib/soundfx/libspatialaudio.so|379b98b020729d05cad4e84202f42335b96bb755
+
 # Awinic firmware
 vendor/firmware/aw8624_haptic.bin
 vendor/firmware/aw8624_rtp.bin
