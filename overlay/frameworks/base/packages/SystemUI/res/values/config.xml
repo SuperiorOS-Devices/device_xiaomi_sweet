@@ -49,4 +49,7 @@
 
     <!-- Doze: check proximity sensor before pulsing? -->
     <bool name="doze_proximity_check_before_pulse">false</bool>
+
+	<!-- Whether device has a physical display cutout -->
+    <bool name="config_physicalDisplayCutout">true</bool>
 </resources>
