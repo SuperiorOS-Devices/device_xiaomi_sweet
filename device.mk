@@ -48,7 +48,7 @@ PRODUCT_PACKAGES += \
     android.hardware.audio.service \
     android.hardware.bluetooth.audio-impl \
     android.hardware.bluetooth.audio@2.1-impl \
-    android.hardware.soundtrigger@2.2-impl \
+    android.hardware.soundtrigger@2.3-impl \
     libtinycompress
 
 PRODUCT_PACKAGES += \
