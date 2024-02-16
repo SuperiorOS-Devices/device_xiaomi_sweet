@@ -31,6 +31,9 @@ media.stagefright.thumbnail.prefer_hw_codecs=true
 mmp.enable.3g2=true
 persist.mm.enable.prefetch=true
 
+# Perfetto
+persist.device_config.runtime_native_boot.iorap_readahead_enable=true
+
 # Radio
 persist.vendor.radio.vdp_on_ims_cap=1
 persist.vendor.qti.telephony.vt_cam_interface=2
