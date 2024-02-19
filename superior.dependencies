@@ -22,5 +22,11 @@
     "target_path": "hardware/xiaomi",
     "branch": "sweet",
     "remote": "SuperiorOS-Devices"
-   }
+   },
+  {
+    "repository": "UnsatifsedError/clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-banana",
+    "branch": "master",
+    "remote": "gitlab"
+  }
 ]
